@@ -1,0 +1,8 @@
+D:\rony\Http\Http\bin\Debug\Http.exe.config
+D:\rony\Http\Http\obj\Debug\Http.csprojResolveAssemblyReference.cache
+D:\rony\Http\Http\bin\Debug\Http.exe
+D:\rony\Http\Http\bin\Debug\Http.pdb
+D:\rony\Http\Http\bin\Debug\log4net.dll
+D:\rony\Http\Http\bin\Debug\log4net.xml
+D:\rony\Http\Http\obj\Debug\Http.exe
+D:\rony\Http\Http\obj\Debug\Http.pdb
